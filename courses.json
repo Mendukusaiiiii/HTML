@@ -1,20 +1,53 @@
 {
 "courses": [
 {
-"year_level": "1st",
-"sem": "1st",
-"code": "IT112",
-"description": "Computer Programming 1",
-"credit": "3.0"
+"year_level": "2nd",
+"sem": "2nd",
+"code": "IT221",
+"description": "Information Management",
+"credit": "3"
 },
 {
-"year_level": "1st",
+"year_level": "2nd",
 "sem": "2nd",
-"code": "IT113",
-"description": "Computer Programming 2",
-"credit": "3.0"
+"code": "IT222",
+"description": "Networking",
+"credit": "3"
+},
+{
+"year_level": "2nd",
+"sem": "2nd",
+"code": "IT223",
+"description": "Web Systems and Technologies",
+"credit": "3"
+},
+{
+"year_level": "2nd",
+"sem": "2nd",
+"code": "IT224",
+"description": "System Integration and Architecture",
+"credit": "3"
+},
+{
+"year_level": "2nd",
+"sem": "2nd",
+"code": "Ethc",
+"description": "Ethics",
+"credit": "3"
+},
+{
+"year_level": "2nd",
+"sem": "2nd",
+"code": "Rizal",
+"description": "Life and Works of Rizal",
+"credit": "3"
+},
+{
+"year_level": "2nd",
+"sem": "2nd",
+"code": "PATH FIT 4",
+"description": "Physical Activities Towards Health and Fitness 4",
+"credit": "2"
 }
-
 ]
-
 }
